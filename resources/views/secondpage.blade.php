@@ -14,7 +14,7 @@
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->
-    <title>Movie Recommendation System</title>
+    <title>Production Income Prediction</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
         <!--
@@ -35,7 +35,7 @@
         <header class="default-header">
             <nav class="navbar navbar-expand-lg  navbar-light">
                 <div class="container">
-                      <a class="navbar-brand" href="index.html">
+                      <a class="navbar-brand" href="{{route('homepage')}}">
                           <h3>PIP</h3>
                       </a>
                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -97,11 +97,11 @@
                                     <input type="number" class="form-control" id="year" placeholder="Year the data pertains to">
                                 </div>
                                 <button type="button" class="btn btn-primary" id="predict">Submit</button>
-                                <br>
-                                <label for="exampleResult" name="result">Result</label>
+                                <br><br>
+                                <h3>Result</h3>
                                 <label for="examplePredict" id="predictData" class="form-control">
                                     <input type="hidden" name="predictDataTemp" id="predictDataRes">
-                                    Rp. 
+                                    US$  
                                 </label>
                               </form>	
                         </div>				
