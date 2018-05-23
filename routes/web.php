@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('homepage');
 });
 
-//Route::get('/homepage', 'AjaxController@index')->name('homepage');
+Route::get('/homepage', 'AjaxController@index')->name('homepage');
 Route::get('/secondpage','AjaxController@gotosecond')->name('secondpage');
 
 Route::get('/result', function () {
