@@ -44,19 +44,8 @@
 
                       <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
                         <ul class="navbar-nav">
-                            <li><a href="index.html#home">Home</a></li>
-                            <li><a href="index.html#service">Service</a></li>
-                            <li><a href="index.html#team">team</a></li>
-                           <!-- Dropdown -->
-                            <li class="dropdown">
-                              <a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                                Pages
-                              </a>
-                              <div class="dropdown-menu">
-                                <a class="dropdown-item" href="generic.html">Generic</a>
-                                <a class="dropdown-item" href="elements.html">Elements</a>
-                              </div>
-                            </li>									
+                            <li><a href="{{route('/homepage')}}">Home</a></li>
+                            								
                         </ul>
                       </div>						
                 </div>

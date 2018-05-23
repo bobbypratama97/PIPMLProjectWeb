@@ -43,7 +43,6 @@
 						  <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 						    <ul class="navbar-nav">
 								<li><a href="#home">Home</a></li>
-								<li><a href="#service">Service</a></li>
 								<li><a href="#team">Team</a></li>
 							   <!-- Dropdown -->
 							    <li class="dropdown">
