@@ -100,6 +100,35 @@
 						</div>
 					</div>						
 					<div class="row justify-content-center d-flex align-items-center">
+						<div class="col-md-3 single-team">
+						    <div class="thumb">
+						        <img class="img-fluid" src="img/wira.jpg" alt="">
+						        <div class="align-items-center justify-content-center d-flex">
+									<a href="#"><i class="fa fa-facebook"></i></a>
+									<a href="#"><i class="fa fa-twitter"></i></a>
+									<a href="#"><i class="fa fa-linkedin"></i></a>
+						        </div>
+						    </div>
+						    <div class="meta-text mt-30 text-center">
+							    <h4>Agung Wira Putra Gea</h4>
+								<p>140707872</p>	
+						    </div>
+						</div>	
+						
+						<div class="col-md-3 single-team">
+						    <div class="thumb">
+						        <img class="img-fluid" src="img/gk.jpg" alt="">
+						        <div class="align-items-center justify-content-center d-flex">
+									<a href="#"><i class="fa fa-facebook"></i></a>
+									<a href="#"><i class="fa fa-twitter"></i></a>
+									<a href="#"><i class="fa fa-linkedin"></i></a>
+						        </div>
+						    </div>
+						    <div class="meta-text mt-30 text-center">
+							    <h4>Fransiskus Meiriyadi Pratama</h4>
+							    <p>140707893</p>			    	
+						    </div>
+						</div>
 					   <div class="col-md-3 single-team">
 							<div class="thumb">
 								<img class="img-fluid" src="img/bobbyResize.jpg" alt="">
@@ -130,20 +159,6 @@
 						</div>
 						<div class="col-md-3 single-team">
 						    <div class="thumb">
-						        <img class="img-fluid" src="img/wira.jpg" alt="">
-						        <div class="align-items-center justify-content-center d-flex">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-linkedin"></i></a>
-						        </div>
-						    </div>
-						    <div class="meta-text mt-30 text-center">
-							    <h4>Agung Wira Putra Gea</h4>
-								<p>140707872</p>	
-						    </div>
-						</div>	
-						<div class="col-md-3 single-team">
-						    <div class="thumb">
 						        <img class="img-fluid" src="img/baru.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									<a href="#"><i class="fa fa-facebook"></i></a>
@@ -156,20 +171,7 @@
 							    <p>150708540</p>			    			    	
 						    </div>
 						</div>	
-						<div class="col-md-3 single-team">
-						    <div class="thumb">
-						        <img class="img-fluid" src="img/gk.jpg" alt="">
-						        <div class="align-items-center justify-content-center d-flex">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-linkedin"></i></a>
-						        </div>
-						    </div>
-						    <div class="meta-text mt-30 text-center">
-							    <h4>Fransiskus Meiriyadi Pratama</h4>
-							    <p>140707893</p>			    	
-						    </div>
-						</div>																									
+																															
 						
 					</div>
 				</div>	
