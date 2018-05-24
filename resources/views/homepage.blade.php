@@ -156,20 +156,7 @@
 							    <p>150708540</p>			    			    	
 						    </div>
 						</div>	
-						<div class="col-md-3 single-team">
-						    <div class="thumb">
-						        <img class="img-fluid" src="img/gk2.jpg" alt="">
-						        <div class="align-items-center justify-content-center d-flex">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-linkedin"></i></a>
-						        </div>
-						    </div>
-						    <div class="meta-text mt-30 text-center">
-							    <h4>Fransiskus Meiriyadi Pratama</h4>
-							    <p>140707893</p>			    	
-						    </div>
-						</div>																									
+																														
 						
 					</div>
 				</div>	
