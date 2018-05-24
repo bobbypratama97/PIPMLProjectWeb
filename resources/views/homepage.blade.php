@@ -33,7 +33,7 @@
 			<header class="default-header">
 				<nav class="navbar navbar-expand-lg  navbar-light">
 					<div class="container">
-						  <a class="navbar-brand" href="index.html">
+						  <a class="navbar-brand" href="{{url('/homepage')}}">
 						  	<h1>PIP</h1>
 						  </a>
 						  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -158,7 +158,7 @@
 						</div>	
 						<div class="col-md-3 single-team">
 						    <div class="thumb">
-						        <img class="img-fluid" src="img/gk.jpg" alt="">
+						        <img class="img-fluid" src="img/gk2.jpg" alt="">
 						        <div class="align-items-center justify-content-center d-flex">
 									<a href="#"><i class="fa fa-facebook"></i></a>
 									<a href="#"><i class="fa fa-twitter"></i></a>
