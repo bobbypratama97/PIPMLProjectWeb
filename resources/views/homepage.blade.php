@@ -44,16 +44,7 @@
 						    <ul class="navbar-nav">
 								<li><a href="#home">Home</a></li>
 								<li><a href="#team">Team</a></li>
-							   <!-- Dropdown -->
-							    <li class="dropdown">
-							      <a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-							        Pages
-							      </a>
-							      <div class="dropdown-menu">
-							        <a class="dropdown-item" href="generic.html">Generic</a>
-							        <a class="dropdown-item" href="elements.html">Elements</a>
-							      </div>
-							    </li>									
+							   <!-- Dropdown -->								
 						    </ul>
 						  </div>						
 					</div>
